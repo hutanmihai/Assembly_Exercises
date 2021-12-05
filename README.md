@@ -30,4 +30,4 @@ Pentru o verificare mai amanuntita cu inputuri mai mari putem inlocui in script.
 
 # ATENTIE:
 
-Pentru ca totul sa functioneze perfect va trebui sa fim sigur ca toate fisierele sunt regasite in fisierul in care rulam terminalul!
+Pentru ca totul sa functioneze perfect va trebui sa fim sigur ca toate fisierele sunt regasite in fisierul in care deschidem terminalul unde rulam comenzile!
