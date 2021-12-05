@@ -6,7 +6,11 @@ In fisierul Tema1.pdf sunt explicate anumite concepte si sunt enuntatate cele pa
 
 Fiecare cerinta este rezolvata in codurile cerintax.asm (x = 1,4).
 
-Pentru verificarea corectitudinii cerintei vom rula prima data: as --32 cerintax.asm -o cerintax.o , gcc -m32 cerintax.o -o cerintax pentru fiecare din cele patru cerinte.
+Pentru verificarea corectitudinii cerintei vom rula prima data:
+
+as --32 cerintax.asm -o cerintax.o
+
+gcc -m32 cerintax.o -o cerintax pentru fiecare din cele patru cerinte.
 
 Pentru a rula scriptul python vom folosi urmatoarele comenzi:
 
