@@ -16,6 +16,8 @@ pip2 install pwn
 pip2 install pathlib2
 python2 script.py
 
+Pentru o verificare mai amanuntita cu inputuri mai mari putem inlocui in script.py inputul si outputul dand copy paste din fisierul script_final_notare.
+
 # ATENTIE:
 
 Pentru ca totul sa functioneze perfect va trebui sa fim sigur ca toate fisierele sunt regasite in fisierul in care rulam terminalul!
